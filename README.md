@@ -137,13 +137,13 @@
             - `collection.Counter` usage for dictionary/sequence item counting/logic
             - List/Dict Comprehension
             - Type check and data type setting
-        * Second Week : [Second Set](/PythonExercises/50_Days_Python/Challenges/50%20Days%20of%20Python%20-%20Week%202.ipynb)
+        * Second Week : [Second Set](/PythonExercises/50_Days_Python/Challenges/50%20Days%20of%20Python%20Week%202.ipynb)
             - User Input Logic
             - Sorting
             - Datetime challenge
             - List Flattening
             - While Loops
-        * Third Week : [Third Set](/PythonExercises/50_Days_Python/Challenges/50%20Days%20of%20Python%20-%20Week%203.ipynb)
+        * Third Week : [Third Set](/PythonExercises/50_Days_Python/Challenges/50%20Days%20of%20Python%20Week%203.ipynb)
             - Nested Loop Logic
             - Sort in Place without helper function (craft your own sorted type function)
             - *args unpacking within function logic
