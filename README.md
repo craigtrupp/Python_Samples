@@ -22,6 +22,7 @@
     * Facial recognition (bounding boxes) extraction for "facial" image recognition 
     * Contact Sheet Creation 
 * [PyTesserract Image & Text Recognition](/Pytesseract/PyTesseract_Final_Mich3_Project.ipynb)
+    - [Project Definition](/Pytesseract/PyTesseractProject.html)
 
 <br>
 
@@ -41,19 +42,35 @@
 
 <br>
 
-### **Data Analysis** 🔍
-* This notebook highlights the following Analysis track
-    * Import and Analyze Data
-    * Impute and Handle Missing Data
-    * Exploratory Analysis prior to model building 
-    * `Ridge` Model and `Polynomial` Feature
-* https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Data%20Analysis/Notebooks/House_Sales_in_King_County.ipynb
+### **Data Analysis** 🔍 🛢️
+* This particular section will host a sample of short projects and analysis into a host of different data sets. Please see below for further section detail for a brief description of each item as well as a link to the item's resources
+* **House Sales in King County** 🏠
+    - This notebook walks through the process of `importing, wrangling, exploratory analysis, data visualization, and model development` for predicting the price of a home based on various available features
+    - [House Sales Analysis - King County](/Data%20Analysis/Notebooks/House_Sales_in_King_County.ipynb)
+* **Disney Movie Success Analysis** 🎥
+    - This brief exploratory notebook looks upon such features as [movie title, release date, genre, MPAA Rating, total gross, inflation adjusted gross] to help understand what contributes to a film's success
+    - **Tasks Performed**
+        - Genre Trends Data Preparation & Visualization
+        - Data Transformation for Categorical Feature Usage with Modeling
+        - Confidence Interval Projections for Film Gross by Genre
+    - **Notebook**
+        - [Disney Genre Analysis - Gross Estimation](/Data%20Analysis/Notebooks/Disney_Regression_CI.ipynb)
+* **Case Studies**
+    - Similar techniques for items listed above for quick case study evaluations 
+    - **Discovery of Handwashing** 🚰
+        - [Datasets](/Data%20Analysis/CaseStudies/Dr._Semmelweis_and_the_Discovery_of_Handwashing/datasets)
+        - [Discovery of Handwashing Analysis](/Data%20Analysis/CaseStudies/Dr._Semmelweis_and_the_Discovery_of_Handwashing/notebook.ipynb)
+    - **Baseball Dingers** ⚾
+        - [Datasets](/Data%20Analysis/CaseStudies/Judge_Giancarlo_Dingers/datasets)
+        - [Baseball StatCast Analysis](/Data%20Analysis/CaseStudies/Judge_Giancarlo_Dingers/notebook.ipynb)
+    - **Predicting Credit Card Approvals**
+        - [Data](/Data%20Analysis/CaseStudies/Predicting%20Credit%20Card%20Approvals/cc_approvals.data)
+        - [Credit Card Approval Prediction Analysis](/Data%20Analysis/CaseStudies/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
+* **Sample Python Standalone Scripts**
+    - These samples files show outside of a notebook approach how a standalone python script can Perform the Analysis Process and use common techniques like **chaining** for pandas to filter and guide the analysis
+    - [Data Preparation](/Data%20Analysis/Python_Files/1_data-preparation_supercar-data.py)
+    - [SuperCars Analysis](/Data%20Analysis/Python_Files/supercars-analysis.py)
 
-<br>
-
-### **Data Analysis - Confidence Intervals**
-* What contributes to the success of Disney Movies?
-* In the following notebook, the following items are evaluated to gain a better perspective
 
 
 <br>
