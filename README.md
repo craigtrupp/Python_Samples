@@ -22,7 +22,8 @@
     * Facial recognition (bounding boxes) extraction for "facial" image recognition 
     * Contact Sheet Creation 
 * [PyTesserract Image & Text Recognition](/Pytesseract/PyTesseract_Final_Mich3_Project.ipynb)
-    - [Project Definition](/Pytesseract/PyTesseractProject.html)
+    - [Project HTML Template](/Pytesseract/PyTesseractProject.html)
+    - [HTML preview](https://htmlpreview.github.io/?https://github.com/craigtrupp/Python_Samples/blob/main/Pytesseract/PyTesseractProject.html)
 
 <br>
 
@@ -72,6 +73,34 @@
     - [SuperCars Analysis](/Data%20Analysis/Python_Files/supercars-analysis.py)
 
 
+<br>
+
+### **DataCamp Tracks/Exercises**
+* This Section holds predominantly educational material from DataCamp with focuses on the following subjects.
+    - Statistics, Importing & Cleaning Data
+    - Machine Learning, Pandas, Python Programming Best Practices
+* **Sections**
+    - `Statistics`
+        * Sampling, Hypothesis Testing, Correlation & Experiment Design, Random Numbers & Probability
+        * Assessing Model Fit, Simple & Multiple Linear/Logistic Regression, CLT, Variable Interactions
+        * [Statistics Section](/DataCamp/Statistics/Stats%20Refresher)
+    - `Importing & Cleaning`
+        * Reshaping Data, WebScraping & API Requests
+        * Cleaning Data, Importing Different Data Types
+        * [Importing & Cleaning Section](/DataCamp/Importing_Cleaning)
+    - `Machine Learning`
+        * Linear Classifiers
+        * Supervised & Unsupervised Learning
+        * Pipeline Generation, Hyperparameter tuning, GridSearch for Features Evaluation
+        * [Machine Learning Basics](/DataCamp/Machine_Learning)
+    - `Python Programming`
+        * Efficient Practices for **Python, Pandas, & Numpy**
+        * Best Practices for Functions & Documentation
+        * [Python Best Practices](/DataCamp/Python_Programming)
+    - `Pandas`
+        * Data Manipulation
+        * Sample Activity for Analyzing Regional Police Activity
+        * [Pandas Section](/DataCamp/Pandas)
 
 <br>
 
@@ -81,7 +110,7 @@
     * Pandas / Python methods for data generation
     * HTML / Dash (App) callback elements
     * Plotly (express) method calls
-* https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Plotly_Viz/US_Domestic_Flights_Plotly.py
+* [Section Details](/Plotly_Viz)
 
 
 
