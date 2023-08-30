@@ -1,11 +1,9 @@
-## Python Code / Brief Project Samples 🐍
+## Python Code / Short Project Samples 🐍
 * Please see the section details below for various **python** use case samples displaying a host of recently completed tasks, short projects, and course material 
-
----
 
 <br>
 
-### **PIL Image Library / Contact Sheet**
+### **PIL Image Library / Contact Sheet** 🖼️
 * This brief project was part of the final capstone project for the **Python Specialization** Coursera offers in tandem with the University of Michigan
 * Within the Jupyter Notebook, the progression and task completion can be reviewed for building a contact sheet with a provided image
 * The tasks use modules of the `PIL` Imaging Library to complete tasks such as 
@@ -16,18 +14,18 @@
 
 <br>
 
-### **PyTesseract (Image & Text Recognition)**
-* Final project for the Specialization credential challenged us to use various libraries [PIL, Pytesseract, cv (detection classifier)] to extract faces from a zipped file of text files (newspapers)
+### **PyTesseract (Image & Text Recognition)** 📷 📰
+* The Final project for the Specialization  challenged us to use various libraries [**PIL**, **Pytesseract**, **CV (detection classifier)**] to extract faces from a zipped file of text files (newspapers)
 * Tasks included 
     * Iterating through zipped file and subsequent classification with pytesseract (ocr)
     * MultiScale face detection and gray scale conversion with stated libraries above
     * Facial recognition (bounding boxes) extraction for "facial" image recognition 
     * Contact Sheet Creation 
-* https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Pytesseract/PyTesseract_Final_Mich3_Project.ipynb
+* [PyTesserract Image & Text Recognition](/Pytesseract/PyTesseract_Final_Mich3_Project.ipynb)
 
 <br>
 
-### **Classes & Inheritance**
+### **Classes & Inheritance** 👨‍👧‍👦
 * Please see the markdown file detailing the objective of the game and definition of the classes
 * Tasks included
     * Multiple class creation
@@ -36,12 +34,14 @@
     * Exception catching
     * File reading
     * Sys execution time/limit setting
-* Game/Class definition markdown : https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Class_Inheritance/Wheel_Of_Python.md
-* Python script : https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Class_Inheritance/WOP.py
+* **Game / Script Markdown** 
+    - [Game Rules / Script Defined](/Class_Inheritance/Wheel_Of_Python.md)
+* **Python script** 
+    - [Game Script](/Class_Inheritance/WOP.py)
 
 <br>
 
-### **Data Analyis - House Sales in King County**
+### **Data Analysis** 🔍
 * This notebook highlights the following Analysis track
     * Import and Analyze Data
     * Impute and Handle Missing Data

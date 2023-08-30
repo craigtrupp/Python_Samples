@@ -1,6 +1,7 @@
-## Wheel of Python
-This project will take you through the process of implementing a simplified version of the game Wheel of Fortune. Here are the rules of our game:
+## **Wheel of Python** 🎡
+This markdown file will take you through the process of implementing a simplified version of the game Wheel of Fortune. Here are the rules of our game:
 
+### **Rules** 📏
 * There are num_human human players and num_computer computer players.
     * Every player has some amount of money ($0 at the start of the game)
     * Every player has a set of prizes (none at the start of the game)
@@ -143,8 +144,9 @@ These should be characters that are in LETTERS ('ABCDEFGHIJKLMNOPQRSTUVWXYZ') bu
 
 <br>
 
-### Script
-* Please see the implemented version of the game at https://github.com/craigtrupp/Online_Data_Python/blob/main/Coursera/Specializations/Python3/Projects/PythonProjects/Class_Inheritance/WOP.py
+### `Script` :page_with_curl:
+* Please see the script for an implemented version of the game at
+    - [Wheel of Python Script](/Class_Inheritance/WOP.py)
 
 
 
