@@ -64,10 +64,10 @@
     - **Baseball Dingers** ⚾
         - [Datasets](/Data%20Analysis/CaseStudies/Judge_Giancarlo_Dingers/datasets)
         - [Baseball StatCast Analysis](/Data%20Analysis/CaseStudies/Judge_Giancarlo_Dingers/notebook.ipynb)
-    - **Predicting Credit Card Approvals**
+    - **Predicting Credit Card Approvals** 💳
         - [Data](/Data%20Analysis/CaseStudies/Predicting%20Credit%20Card%20Approvals/cc_approvals.data)
         - [Credit Card Approval Prediction Analysis](/Data%20Analysis/CaseStudies/Predicting%20Credit%20Card%20Approvals/notebook.ipynb)
-* **Sample Python Standalone Scripts**
+* **Sample Python Standalone Scripts** 
     - These samples files show outside of a notebook approach how a standalone python script can Perform the Analysis Process and use common techniques like **chaining** for pandas to filter and guide the analysis
     - [Data Preparation](/Data%20Analysis/Python_Files/1_data-preparation_supercar-data.py)
     - [SuperCars Analysis](/Data%20Analysis/Python_Files/supercars-analysis.py)
@@ -79,25 +79,25 @@
 * This Section holds predominantly educational material from DataCamp with focuses on the following subjects.
     - Statistics, Importing & Cleaning Data
     - Machine Learning, Pandas, Python Programming Best Practices
-* **Sections**
-    - `Statistics`
+* **Sections** 
+    - `Statistics` 📈
         * Sampling, Hypothesis Testing, Correlation & Experiment Design, Random Numbers & Probability
         * Assessing Model Fit, Simple & Multiple Linear/Logistic Regression, CLT, Variable Interactions
         * [Statistics Section](/DataCamp/Statistics/Stats%20Refresher)
-    - `Importing & Cleaning`
+    - `Importing & Cleaning` 🧹 
         * Reshaping Data, WebScraping & API Requests
         * Cleaning Data, Importing Different Data Types
         * [Importing & Cleaning Section](/DataCamp/Importing_Cleaning)
-    - `Machine Learning`
+    - `Machine Learning` 🤖
         * Linear Classifiers
         * Supervised & Unsupervised Learning
         * Pipeline Generation, Hyperparameter tuning, GridSearch for Features Evaluation
         * [Machine Learning Basics](/DataCamp/Machine_Learning)
-    - `Python Programming`
+    - `Python Programming` 🐍
         * Efficient Practices for **Python, Pandas, & Numpy**
         * Best Practices for Functions & Documentation
         * [Python Best Practices](/DataCamp/Python_Programming)
-    - `Pandas`
+    - `Pandas` 🐼
         * Data Manipulation
         * Sample Activity for Analyzing Regional Police Activity
         * [Pandas Section](/DataCamp/Pandas)
@@ -111,6 +111,27 @@
     * HTML / Dash (App) callback elements
     * Plotly (express) method calls
 * [Section Details](/Plotly_Viz)
+
+<br>
+
+### **Python Exercises - Refreshers**
+* This section serves predominantly as the home for Exercises and Challenges w/Python, please see below for details on the existing sections and techniques used and introduction to topics covered
+* **Sections**
+    - `Notebooks Section` : [Python Notebooks](/PythonExercises/Notebooks)
+        * Python Classes & Inheritance
+        * Test Cases, Exception Handling
+        * API Requests and Requests Caching, Python Library Usage
+        * Dictionary Methods (Get/Setting of Values)
+    - `Python Scripts` : [Python Scripts](/PythonExercises/PythonScripts)
+        * Functions w/API Dynamic Information and Data Collection
+        * Class Usage, Inheritance, Method / Object Creation within Class
+        * File Reading/Writing
+        * **Basics Section**
+            - Code Reuse, Dictionaries, Lists, Comprehension, Loops, Types
+            - [Basics](/PythonExercises/PythonScripts/Python_Basics)
+    - `50 Day Python Challenge`
+        * 
+
 
 
 
