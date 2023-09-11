@@ -79,7 +79,7 @@
 * This Section holds predominantly educational material from DataCamp with focuses on the following subjects.
     - Statistics, Importing & Cleaning Data
     - Machine Learning, Pandas, Python Programming Best Practices
-    - Education Repository link with further context and referential links to learning tracks
+    - Education Repository link with further context and referential links to learning tracks : [DataCamp Tracks Section Review - Separate Repository](https://github.com/craigtrupp/Educational-Data-Python-Items/blob/main/DataCamp/DataCamp_SectRev.md)
 * **Sections** 
     - `Statistics` 📈
         * Sampling, Hypothesis Testing, Correlation & Experiment Design, Random Numbers & Probability
